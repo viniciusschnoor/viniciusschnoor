@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working @ ZF as Computing Engineer Trainee
 🌱 I’m currently learning C#
 
